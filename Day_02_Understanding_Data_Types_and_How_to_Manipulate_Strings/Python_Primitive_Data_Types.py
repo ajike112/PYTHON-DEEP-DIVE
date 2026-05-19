@@ -1,14 +1,3 @@
-# PYTHON-DEEP-DIVE
-INPUT FUNCTION
-
-Input () function is a prompt for the user
-
-DATA TYPES
-String "" e.g "Hello"
-Integer
-Float
-Boolean
-
 # Subscripting
 print("Hello"[0])
 
@@ -28,5 +17,3 @@ print(3.14159)
 # Boolean is a data type with just two possible values True and False. Note that there are no strings attached (pun not intended) to the True and False values.
 print(True)
 print(False)
-
-The method of pulling out a particular element from a string is called SUBSCRIPTING. For example print("Hello"[0]) gives H.
