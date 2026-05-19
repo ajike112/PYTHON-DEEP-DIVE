@@ -2,7 +2,7 @@
 print("Hello"[0])
 
 # String
-print("123" + "345") # = 1233445
+print("123" + "345") # = 123345
 
 # Integer = Whole number
 print(123 + 345) # = 468
