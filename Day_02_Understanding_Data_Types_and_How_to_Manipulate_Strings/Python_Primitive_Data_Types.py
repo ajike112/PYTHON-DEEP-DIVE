@@ -17,3 +17,12 @@ print(3.14159)
 # Boolean is a data type with just two possible values True and False. Note that there are no strings attached (pun not intended) to the True and False values.
 print(True)
 print(False)
+
+
+# What is the data type of the result of the variable a in the following line of code?:
+
+a = int("5") / int(2.7)
+
+# SOLUTION
+print(a)
+print(type(a))
