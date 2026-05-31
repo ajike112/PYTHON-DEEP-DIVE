@@ -4,6 +4,30 @@
      # Do this
      # Then do this
 
+# EXAMPLE 1
+i = 0
+while i < 10:
+    print(i)
+    i += 1
+
+# EXAMPLE 2
+i = 0
+while ((i < 10) == True):
+    print(i)
+    i = i + 1
+
+# EXAMPLE 3 (Iterating backward)
+
+i = 100
+while ((i >=0) == True):
+    print(i)
+    i = i - 1
+
+# EXAMPE 4
+x = 2 
+while(x < 100000):
+    print(x)
+    x = x**2
 ## Example of Infinite Loop
 
 #  while 5 > 3:
